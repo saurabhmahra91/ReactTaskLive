@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactTaskLive/static/css/main.b352691c.chunk.css",
+    "main.js": "/ReactTaskLive/static/js/main.76d8a49d.chunk.js",
+    "main.js.map": "/ReactTaskLive/static/js/main.76d8a49d.chunk.js.map",
+    "runtime-main.js": "/ReactTaskLive/static/js/runtime-main.8d8e7db5.js",
+    "runtime-main.js.map": "/ReactTaskLive/static/js/runtime-main.8d8e7db5.js.map",
+    "static/js/2.33bc62af.chunk.js": "/ReactTaskLive/static/js/2.33bc62af.chunk.js",
+    "static/js/2.33bc62af.chunk.js.map": "/ReactTaskLive/static/js/2.33bc62af.chunk.js.map",
+    "static/js/3.8453743f.chunk.js": "/ReactTaskLive/static/js/3.8453743f.chunk.js",
+    "static/js/3.8453743f.chunk.js.map": "/ReactTaskLive/static/js/3.8453743f.chunk.js.map",
+    "index.html": "/ReactTaskLive/index.html",
+    "static/css/main.b352691c.chunk.css.map": "/ReactTaskLive/static/css/main.b352691c.chunk.css.map",
+    "static/js/2.33bc62af.chunk.js.LICENSE.txt": "/ReactTaskLive/static/js/2.33bc62af.chunk.js.LICENSE.txt",
+    "static/media/a.28103cfd.png": "/ReactTaskLive/static/media/a.28103cfd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d8e7db5.js",
+    "static/js/2.33bc62af.chunk.js",
+    "static/css/main.b352691c.chunk.css",
+    "static/js/main.76d8a49d.chunk.js"
+  ]
+}
